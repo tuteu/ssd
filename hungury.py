@@ -2,7 +2,10 @@ hungry = input ('are you hungry?')
 if hungry=='yes':
     print('eat non')
 else:
-    print('do your homework')
+    second=input('are you scond one ?')
+    if second == 'yes':
+        print('do your homework')
+	print('drink soda')
 
 
 def add():
