@@ -5,6 +5,7 @@ else:
     second=input('are you scond one ?')
     if second == 'yes':
         print('do your homework')
+	print('drink soda')
 
 
 def add():
